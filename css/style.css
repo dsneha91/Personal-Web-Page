@@ -27,7 +27,7 @@ body a:hover{
 }
 /*--baner--*/
 .banner {
-	background:url(../images/images.jpeg)no-repeat center 0px;
+	background:#fff no-repeat center 0px;
 	-webkit-background-size:cover;
 	background-size:cover;
 	-moz-background-size:cover;
