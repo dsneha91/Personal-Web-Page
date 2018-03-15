@@ -169,7 +169,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: #000;
+    background: url(../images/theme.jpg) no-repeat center 0px;;
 }
 .work-left {
     text-align: right;
@@ -265,7 +265,7 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:#000;
+	background:url(../images/theme.jpg) no-repeat center 0px;;
 }
 .bar-grids {
     padding: 0 4em;
