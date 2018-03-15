@@ -1,7 +1,7 @@
 body{
 	margin:0;
 	font-family: 'Roboto Condensed', sans-serif;
-	background: #fff;
+	background: #FFFFF4;
 }
 body a{
 	transition: 0.5s all;
@@ -52,7 +52,7 @@ body a:hover{
 .header-right h2 {
     font-size: 1.2em;
     color: #000;
-    background: #F3E000;
+    background: #FFFF62;
     display: inline-block;
     padding: .5em 1.5em;
     position: relative;
@@ -66,7 +66,7 @@ body a:hover{
     left: 12px;
     border-style: solid;
     border-width: 10px 10px 0 10px;
-    border-color: #F3E000 transparent transparent transparent;
+    border-color: #FFFF62 transparent transparent transparent;
 }
 .header-right h6 {
     font-size: 1em;
@@ -102,7 +102,7 @@ ul.address li ul.address-text li a:hover{
 /*--//banner-top--*/
 /*--top-nav--*/
 .top-nav {
-    background: #008B8B;
+    background: #81604F;
 }
 .nav > li {
     display: inline-block;
@@ -118,7 +118,7 @@ ul.nav.navbar li a {
     font-family: 'Overlock', cursive;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
-    color: #008B8B;
+    color: #81604F;
     background: #fff;
 	-webkit-transform: scale(0.8);
 	-moz-transform: scale(0.8);
@@ -134,7 +134,7 @@ ul.nav.navbar li a:hover,ul.nav.navbar li a.active,ul.nav.navbar li a:focus{
 h3.title {
     font-size: 4em;
     text-align: center;
-    color: #008B8B;
+    color: #81604F;
     border-bottom: 4px double rgba(247, 197, 106, 0.35);
     padding-bottom: 0.2em;
 	margin-bottom: 1em;
@@ -148,13 +148,13 @@ p {
     padding-left: 5em;
 }
 .about-right ul {
-    border: 3px double #008B8B;
+    border: 3px double #81604F;
     padding: 1em 2em;
 }
 .about-right h5 {
     font-size: 2em;
     text-align: center;
-    color: #008B8B;
+    color: #81604F;
 }
 .about-right ul li {
     display: block;
@@ -169,7 +169,7 @@ p {
 /*--//about--*/
 /*--work--*/
 .work {
-    background: url(../images/theme.jpg) no-repeat center 0px;;
+    background: #000;
 }
 .work-left {
     text-align: right;
@@ -181,7 +181,7 @@ p {
 }
 .work-info h4 {
     font-size: 1.2em;
-    background: darkcyan;
+    background: #81604F;
     display: inline-block;
     padding: .6em 1.2em;
     color: #fff;
@@ -210,7 +210,7 @@ p {
 .work-info h5 span.glyphicon {
     font-size: 0.9em;
     color: #fff;
-    background: #008B8B;
+    background: #81604F;
     padding: 1em;
     -webkit-border-radius: 70%;
     -moz-border-radius: 70%;
@@ -265,7 +265,7 @@ p {
 /*--//education--*/
 /*--skills--*/
 .skills{
-	background:url(../images/theme.jpg) no-repeat center 0px;;
+	background:#000;
 }
 .bar-grids {
     padding: 0 4em;
@@ -567,8 +567,8 @@ h2.resp-accordion {
     font-size: 1.1em;
     margin: 1em 0 0 0;
     -webkit-appearance: none;
-    background: #008B8B;
-    border: 2px solid #008B8B;
+    background: #81604F;
+    border: 2px solid #81604F;
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     transition: 0.5s all;
@@ -577,7 +577,7 @@ h2.resp-accordion {
 }
 .contact-form input[type="submit"]:hover {
     background: none;
-    color: #008B8B;
+    color: #81604F;
 }
 ::-webkit-input-placeholder {
 	color:#fff !important;
